@@ -10,7 +10,11 @@ This project is centered around Data Preprocessing, Data Analysis, and Business 
 ### Project Guideline
 This project will follow:
 1. Section 1: Pre-Processing
-2. Section 2: Exploratory Data Analysis (EDA)
+2. Section 2: Data Analysis
+    - Sales and Profits Trends Over-Time 📈
+    - Top Selling Products 🏆
+    - Impact of Discounts on Sales 💰
+    - Profitability by Country 🌎
 3. Section 3: ~To Be Determined~
 4. Section 4: ~To Be Determined~
 
